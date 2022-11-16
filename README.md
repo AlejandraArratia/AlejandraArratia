@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alejandra Noelia Arratia!:smile:
+- 👋 Hi, I’m Alejandra Arratia!:smile:
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+
 
